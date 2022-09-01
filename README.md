@@ -5,7 +5,7 @@ Esse sistema foi desenvolvido exclusivamente e personalizadamente para a empresa
 
 # Menu
 
-![Print](assets/images/sistema.png)
+![Print](sistema.png)
 
 ### Relatórios dinâmicos: 
 

@@ -24,7 +24,7 @@ Esse sistema foi desenvolvido exclusivamente e personalizadamente para a empresa
 ### Outras funcionalidades
 
 - Gerenciamento de usuários (+ permissões de páginas e visualização de dados específicos)
-- Integração com o E-mail
+- Integração com o e-mail
 - Integração com API's do Google (Google maps)
 
 

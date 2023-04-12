@@ -1,5 +1,5 @@
 # Veridiana Quirino Semi Joias
-Esse sistema foi desenvolvido exclusivamente e personalizadamente para a empresa "Veridiana Quirino", uma empresa que vende semi-joias para todo o Brasil! 
+Esse sistema foi desenvolvido e implantado exclusivamente para a empresa "Veridiana Quirino", uma empresa que vende semi-joias para todo o Brasil! 
 
 É um sistema que possuí diversos relatórios e alguns controles da empresa, como o gerenciamento de estoque e metas! o mesmo é utilizado em todos os escritórios e lojas da empresa.
 

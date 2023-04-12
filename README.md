@@ -17,7 +17,7 @@ Esse sistema foi desenvolvido e implantado exclusivamente para a empresa "Veridi
 - Integração com API's do Google (Google maps)
 
 
-### Linguagens utilizadas 
+### Tecnologias utilizadas 
 
 - Bootstrap (Framework) 
 - JavaScript (jQuery, AJAX)
